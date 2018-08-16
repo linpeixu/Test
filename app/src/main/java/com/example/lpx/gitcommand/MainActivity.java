@@ -13,14 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void init() {
 
-    //这是master分支的测试内容
-    //这是My分支的测试内容
-
-     //这是My分支的测试内容
-        //好的
-
     }
     private void test(){
 
     }
+
 }
