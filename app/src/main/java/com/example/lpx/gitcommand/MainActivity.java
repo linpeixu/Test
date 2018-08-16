@@ -17,11 +17,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
-<<<<<<< HEAD
 //66
-=======
+
 //test
->>>>>>> 747ea327dcae6a8e751d283f5736432cc46029f6
+
     }
 
 
