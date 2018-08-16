@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init() {
-
+//My分支的init内容
 
     }
 
