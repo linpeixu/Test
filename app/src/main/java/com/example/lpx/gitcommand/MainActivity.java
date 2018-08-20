@@ -17,28 +17,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
-//My分支的init内容
-//stash
-//ydcycloud
-//test
-        //main
-
-        //master test
-
-        //action
-
-//m
-
-//a
 
     }
-
-
-
-
-
-
-
 
 
 }
