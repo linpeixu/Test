@@ -17,10 +17,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
+    //My分支的init内容
+    //stash
 
     }
-    private void getMaxValueLength(){
-        
+
+    private void getMaxValueLength() {
+
     }
 
 
