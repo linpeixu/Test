@@ -8,5 +8,6 @@ public class SecondActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         /*主分支上做的修改，dev分支又做了修改*/
+        /*在dev分支上创建了secondDev分支提交的修改*/
     }
 }
