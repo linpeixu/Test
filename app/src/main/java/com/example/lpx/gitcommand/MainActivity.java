@@ -18,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
-    //My分支的init内容
-    //stash
+        //My分支的init内容
+        //stash
 
     }
 
@@ -27,5 +27,16 @@ public class MainActivity extends AppCompatActivity {
 //修改提交日期
     }
 
+    public void testOne() {
+
+    }
+
+    public void testTwo() {
+
+    }
+
+    public void testThree() {
+
+    }
 
 }
